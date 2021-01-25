@@ -1,0 +1,11 @@
+scoreboard objectives add dfc dummy
+scoreboard objectives add drecord dummy
+scoreboard objectives add x1 dummy
+scoreboard objectives add y1 dummy
+scoreboard objectives add z1 dummy
+scoreboard objectives add mx dummy
+scoreboard objectives add my dummy
+scoreboard objectives add mz dummy
+scoreboard objectives add life dummy
+scoreboard objectives add dtime minecraft.used:minecraft.carrot_on_a_stick
+scoreboard objectives add shift minecraft.custom:minecraft.sneak_time
